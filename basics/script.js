@@ -4,7 +4,7 @@ gsap.to("#box1",{
     delay:1,
 });
 
-gsap.to("#box2",{
+gsap.from("#box2",{
     x:1000,
     duration:2,
     delay:1,
